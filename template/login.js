@@ -2,18 +2,18 @@ function loginForm(){
       return`
     <div class="modal is-active">
       <div class="modal-background"></div>
-        <div class="modal-card">
+        <div class="modal-card loginForm">
         <div id="error-message">
         </div>
           <div class="field">
-            <label class="label is-white">Email</label>
+            <label class="label">Email</label>
             <div class="control">
               <input required id="email-input" class="input" type="email" placeholder="e.g. frodo@hobbit.com">
             </div>
           </div>
 
           <div class="field">
-          <label class="label is-white"></label>
+          <label class="label">Password</label>
             <div class="control">
               <input required id="password-input" class="input" type="password" placeholder="password">
             </div>
