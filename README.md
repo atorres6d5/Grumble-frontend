@@ -8,3 +8,7 @@ Every day Galvanize students rush to the kitchen to grab their favorite snack. S
 live site:
 
 http://grumbleg67.surge.sh/
+
+![](./popup.png)
+----
+![](./dash.png)
